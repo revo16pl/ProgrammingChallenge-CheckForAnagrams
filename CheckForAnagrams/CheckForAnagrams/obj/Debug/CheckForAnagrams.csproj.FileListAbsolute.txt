@@ -1,0 +1,7 @@
+C:\Users\Rados\source\repos\CheckForAnagrams\CheckForAnagrams\obj\Debug\CheckForAnagrams.csprojAssemblyReference.cache
+C:\Users\Rados\source\repos\CheckForAnagrams\CheckForAnagrams\obj\Debug\CheckForAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\Rados\source\repos\CheckForAnagrams\CheckForAnagrams\bin\Debug\CheckForAnagrams.exe.config
+C:\Users\Rados\source\repos\CheckForAnagrams\CheckForAnagrams\bin\Debug\CheckForAnagrams.exe
+C:\Users\Rados\source\repos\CheckForAnagrams\CheckForAnagrams\bin\Debug\CheckForAnagrams.pdb
+C:\Users\Rados\source\repos\CheckForAnagrams\CheckForAnagrams\obj\Debug\CheckForAnagrams.exe
+C:\Users\Rados\source\repos\CheckForAnagrams\CheckForAnagrams\obj\Debug\CheckForAnagrams.pdb
